@@ -1,0 +1,2 @@
+module PaigeHelper
+end
